@@ -12,6 +12,7 @@ From the available data of PyBer,  citi_data.csv & the ride_data.csv we created 
 
 ## Refinig the data
 In order to get the necessary data, we perform several operations in the previous data frame to perform the analysis. We were looking the total fares per city, number of rides, number of driver per city, We transform the final Data Frame and resample the data form January to May, 2019.
+https://github.com/MariloyH/PyBer_Analysis/blob/main/PyBer_pngs/FaresbyDate.png
 
 ![image](https://user-images.githubusercontent.com/102195803/166849666-4ce12e10-23be-4134-827d-d04c73a321c6.png)
 Finally, we plot the results to observe how fares have changed over time depending on city type.
