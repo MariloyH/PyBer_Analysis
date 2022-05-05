@@ -8,12 +8,8 @@ PyBer is a transportation by Aplication Company. We must create a summary of the
 
 From the data of  the citi_data.csv & the ride_data.csv we created a new Data Frame with the information we need for the purpose of this proyect, by using the *groupby dataframe function* to get the total number of trips made, the total number of drivers and the rates per driver and per trip, this  for each type of trips the company makes: Urban, Suburban and Rural.
 
-
 ![image](https://user-images.githubusercontent.com/102195803/166848804-937c262e-54d2-4f3c-9d28-fd85fa4b8489.png)
 
-![image](https://user-images.githubusercontent.com/102195803/166848417-317de42d-ad86-4222-bcb0-fae62c3ce500.png), 
-
-![image](https://user-images.githubusercontent.com/102195803/166849042-d0669afe-01bf-4550-ac4d-477cf666bb89.png)
 
 describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
