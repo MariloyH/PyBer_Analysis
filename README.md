@@ -17,13 +17,13 @@ In order to plot the results, we performed several operations in the previous da
 
 <img width="601" alt="FarebyDate_DF" src="https://user-images.githubusercontent.com/102195803/167001624-6486686a-b8c7-4c8b-9813-0dc7ccc30c89.png">
 
-So we were looking the total fares and number of rides per city, it was necessary transform the final Data Frame,  resample the data form January to May, 2019.
-
-**Resample data**
-<img width="548" alt="Copia de Resampled_data" src="https://user-images.githubusercontent.com/102195803/166987720-4b41825e-4bc8-416b-8127-7d3fdfe6e5b9.png">
+So we were looking the total fares and number of rides per city, it was necessary transform this Data Frame: first, we select the period of time and transform the resulting DataFrame  into a Pivot Table and  Resample the data in Weeks.
 
 **Pivot Table**
 <img width="321" alt="PivotTable" src="https://user-images.githubusercontent.com/102195803/167021458-f5bed148-41c9-4703-b871-20ea13509b81.png">
+
+**Resample data**
+<img width="548" alt="Copia de Resampled_data" src="https://user-images.githubusercontent.com/102195803/166987720-4b41825e-4bc8-416b-8127-7d3fdfe6e5b9.png">
 
 ## Final Results
 Finally, we plot the results to observe how fares changed over time depending on city type.
