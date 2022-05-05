@@ -7,13 +7,13 @@ Our Client, PyBer, is a Ride-sharing App Company asked us to perform an analysis
 
 # Results
 ## Merging the 2 databases to get the required data
-From the available data of PyBer,  citi_data.csv & the ride_data.csv, we created a Data Frame with the information we will need for the purpose of this proyect. Using the *groupby dataframe function* to get the total number of trips made, the total number of drivers and the rates per driver and per trip, this  for each type of trips the company makes: Urban, Suburban and Rural. 
+From the available data of PyBer,  citi_data.csv & the ride_data.csv, we created a Data Frame with the information we will need for the purpose of this proyect. We use the *groupby dataframe function* to get the total number of rides, the total number of drivers and the fares per driver and per ride, and we sort for the city type  the company has: Urban, Suburban and Rural. 
 
 
 <img width="621" alt="Totals per city" src="https://user-images.githubusercontent.com/102195803/167002464-f8ed080e-51e6-4b9b-9f68-d7cbce0fe203.png">
 
 ## Refinig the data
-In order to plot the results, we performed several operations in the previous data frame to perform the analysis. 
+In order to plot the results, we performed several operations in the previous data frame to perform the analysis and selecte a period of time as a sample for this analysis. 
 
 <img width="601" alt="FarebyDate_DF" src="https://user-images.githubusercontent.com/102195803/167001624-6486686a-b8c7-4c8b-9813-0dc7ccc30c89.png">
 
@@ -24,10 +24,9 @@ We were looking the total fares and number of rides per city, We transform the f
 ![image](https://user-images.githubusercontent.com/102195803/167018275-4720b5f0-d252-4a9a-8c7d-a2695fc36a96.png)
 
 ## Final Results
-Finally, we plot the results to observe how fares have changed over time depending on city type.
+Finally, we plot the results to observe how fares changed over time depending on city type.
 
 <img width="279" alt="Final DataFrame" src="https://user-images.githubusercontent.com/102195803/166987893-1da23ff9-97ee-4eca-938a-967be9ab3b10.png">
-
 
 ![image](https://user-images.githubusercontent.com/102195803/167016456-3372fcdc-3389-4b79-93d4-c4299ab9ab0b.png)
 
