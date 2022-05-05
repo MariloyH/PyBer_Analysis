@@ -17,11 +17,7 @@ In order to plot the results, we performed several operations in the previous da
 
 <img width="601" alt="FarebyDate_DF" src="https://user-images.githubusercontent.com/102195803/167001624-6486686a-b8c7-4c8b-9813-0dc7ccc30c89.png">
 
-
-<img width="500" alt="Fares_by_type_and_date" src="https://user-images.githubusercontent.com/102195803/166987748-c50c5cba-99f9-4d28-9a5a-c9cb741993e5.png">
-
-We were looking the total fares and number of rides per city, We transform the final Data Frame and resample the data form January to May, 2019.
-
+We were looking the total fares and number of rides per city, We transform the final Data Frame into a Pivot Table resample the data form January to May, 2019.
 
 <img width="548" alt="Copia de Resampled_data" src="https://user-images.githubusercontent.com/102195803/166987720-4b41825e-4bc8-416b-8127-7d3fdfe6e5b9.png">
 
@@ -31,6 +27,9 @@ Finally, we plot the results to observe how fares have changed over time dependi
 <img width="279" alt="Final DataFrame" src="https://user-images.githubusercontent.com/102195803/166987893-1da23ff9-97ee-4eca-938a-967be9ab3b10.png">
 
 
+![image](https://user-images.githubusercontent.com/102195803/167016456-3372fcdc-3389-4b79-93d4-c4299ab9ab0b.png)
+
+## Describe the differences in ride-sharing data among the different city types.
 ## Describe the differences in ride-sharing data among the different city types.
 
 From the first image, we could observe that the Urban rides are the most profitable of the company during this period. Althought in its majority they are no so expensive, (their average fare was of $24.53 USD), there were more, in a reaseon of 13 city rides per one rural ride.
@@ -39,7 +38,7 @@ They have also more drivers, which seems logiucal,  because because the cities h
 
 # Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 From this results, we have 3 recommendations:
-  1) Increase the number of Urban drivers, due Urban rides are the most important bussines in revenues. 
+  1) Motivate an increase of Urban rides, due they are the most important part of the bussines revenues, but its not consistent with the number of asigned drivers. 
   2) Establish a Fare goal for Suburban cities, paying atention to its number of drivers, because  its a city type with a lot of growth         potential. 
   3) Expand the scope to rural cities that are not considered yet, maybe more advertising or adding promotions, because maybe the competition here is between bus transportation, so maybe a minor fare could motivate people to use Ride Apps.   
 
