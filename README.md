@@ -36,10 +36,11 @@ Finally, we plot the results to observe how fares changed over time depending on
 ![image](https://user-images.githubusercontent.com/102195803/167016456-3372fcdc-3389-4b79-93d4-c4299ab9ab0b.png)
 
 ## Describe the differences in ride-sharing data among the different city types.
-
+In the first table, we showed the numbers of the company during a period of time, sorted by city type: the total rides, total drivers, total fares, average fare per ride and driver. 
 From the first image, we could observe that the Urban rides are the most profitable of the company during this period. Althought in its majority they are no so expensive, (their average fare was of $24.53 USD), there were more, in a reaseon of 13 city rides per one rural ride.
-They have also more drivers, which seems logiucal,  because because the cities have more people and more traffic, and the people is changing to Ride Apps transportation.  On the other hand, rural rides are less frequent, hence it has less  drivers, but, due the distances, there are more expensive than city rides, as the fare per driver shows. Its higher, but its not profiterable due its less frequency,  and here it is an opportunity to explore, because maybe ther are not enough rural drivers. Suburban rides are the average as much as fares than in frequency ant its respresent an important part of the Company´s revenues.  
+They have also more drivers, which seems logical,  because because the cities have more people and more traffic, and the people is changing to Ride Apps transportation.  On the other hand, rural rides are less frequent, hence it has less  drivers, but, due the distances, there are more expensive than city rides, as the fare per driver shows. Its higher, but its not profiterable due its less frequency,  and here it is an opportunity to explore, because maybe ther are not enough rural drivers. Suburban rides are the average as much as fares than in frequency ant its respresent an important part of the Company´s revenues.  
 
+Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city
 
 # Summary: 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
