@@ -21,6 +21,8 @@ We were looking the total fares and number of rides per city, We transform the f
 
 <img width="548" alt="Copia de Resampled_data" src="https://user-images.githubusercontent.com/102195803/166987720-4b41825e-4bc8-416b-8127-7d3fdfe6e5b9.png">
 
+![image](https://user-images.githubusercontent.com/102195803/167018275-4720b5f0-d252-4a9a-8c7d-a2695fc36a96.png)
+
 ## Final Results
 Finally, we plot the results to observe how fares have changed over time depending on city type.
 
