@@ -14,15 +14,14 @@ From the available data of PyBer,  citi_data.csv & the ride_data.csv we created 
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/166848804-937c262e-54d2-4f3c-9d28-fd85fa4b8489.png">
 
 ## Refinig the data
-In order to get the necessary data, we perform several operations in the previous data frame to perform the analysis. We were looking the total fares per city, number of rides, number of driver per city, We transform the final Data Frame and resample the data form January to May, 2019.
+In order to plot the results, we performed several operations in the previous data frame to perform the analysis. 
 <img width="500" alt="Fares_by_type_and_date" src="https://user-images.githubusercontent.com/102195803/166987748-c50c5cba-99f9-4d28-9a5a-c9cb741993e5.png">
 
-![image](https://user-images.githubusercontent.com/102195803/166849666-4ce12e10-23be-4134-827d-d04c73a321c6.png)
+We were looking the total fares and number of rides per city, We transform the final Data Frame and resample the data form January to May, 2019.
 
 <img width="548" alt="Copia de Resampled_data" src="https://user-images.githubusercontent.com/102195803/166987720-4b41825e-4bc8-416b-8127-7d3fdfe6e5b9.png">
 
 Finally, we plot the results to observe how fares have changed over time depending on city type.
-<img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
 <img width="279" alt="Final DataFrame" src="https://user-images.githubusercontent.com/102195803/166987893-1da23ff9-97ee-4eca-938a-967be9ab3b10.png">
 
