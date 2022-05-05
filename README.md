@@ -9,48 +9,37 @@ Our Client, PyBer, is a Ride-sharing App Company asked us to perform an analysis
 ## Merging the 2 databases to get the required data
 From the available data of PyBer,  citi_data.csv & the ride_data.csv we created a Data Frame with the information we will need for the purpose of this proyect, by using the *groupby dataframe function* to get the total number of trips made, the total number of drivers and the rates per driver and per trip, this  for each type of trips the company makes: Urban, Suburban and Rural. 
 
-![image](https://user-images.githubusercontent.com/102195803/166848804-937c262e-54d2-4f3c-9d28-fd85fa4b8489.png)
 
-<img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/166848804-937c262e-54d2-4f3c-9d28-fd85fa4b8489.png">
+<img width="621" alt="Totals per city" src="https://user-images.githubusercontent.com/102195803/167002464-f8ed080e-51e6-4b9b-9f68-d7cbce0fe203.png">
 
 ## Refinig the data
 In order to plot the results, we performed several operations in the previous data frame to perform the analysis. 
+
+<img width="601" alt="FarebyDate_DF" src="https://user-images.githubusercontent.com/102195803/167001624-6486686a-b8c7-4c8b-9813-0dc7ccc30c89.png">
+
+
 <img width="500" alt="Fares_by_type_and_date" src="https://user-images.githubusercontent.com/102195803/166987748-c50c5cba-99f9-4d28-9a5a-c9cb741993e5.png">
 
 We were looking the total fares and number of rides per city, We transform the final Data Frame and resample the data form January to May, 2019.
 
+
 <img width="548" alt="Copia de Resampled_data" src="https://user-images.githubusercontent.com/102195803/166987720-4b41825e-4bc8-416b-8127-7d3fdfe6e5b9.png">
 
+## Final Results
 Finally, we plot the results to observe how fares have changed over time depending on city type.
 
 <img width="279" alt="Final DataFrame" src="https://user-images.githubusercontent.com/102195803/166987893-1da23ff9-97ee-4eca-938a-967be9ab3b10.png">
 
 
-PyBer_fare_summary.png
-
 ## Describe the differences in ride-sharing data among the different city types.
-We can observe that the Urban rides were more profitable along the first 4 months if the year, in comparison with tne Rural rides. 
-At first sight we can think that rural rides are not so good because they are nor profitables, if we saw the statisticis we can observe that rural rides are not so frequent as the Urban. 
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
+From the first image, we could observe that the Urban rides are the most profitable of the company during this period. Althought in its majority they are no so expensive, (their average fare was of $24.53 USD), there were more, in a reaseon of 13 city rides per one rural ride.
+They have also more drivers, which seems logiucal,  because because the cities have more people and more traffic, and the people is changing to Ride Apps transportation.  On the other hand, rural rides are less frequent, hence it has less  drivers, but, due the distances, there are more expensive than city rides, as the fare per driver shows. Its higher, but its not profiterable due its less frequency,  and here it is an opportunity to explore, because maybe ther are not enough rural drivers. Suburban rides are the average as much as fares than in frequency ant its respresent an important part of the Company´s revenues.  
 
 
+# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+From this results, we have 3 recommendations:
+  1) Increase the number of Urban drivers, due Urban rides are the most important bussines in revenues. 
+  2) Establish a Fare goal for Suburban cities, paying atention to its number of drivers, because  its a city type with a lot of growth         potential. 
+  3) Expand the scope to rural cities that are not considered yet, maybe more advertising or adding promotions, because maybe the competition here is between bus transportation, so maybe a minor fare could motivate people to use Ride Apps.   
 
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
