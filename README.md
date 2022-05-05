@@ -11,10 +11,6 @@ From the data of  the citi_data.csv & the ride_data.csv we created a new Data Fr
 
 ![image](https://user-images.githubusercontent.com/102195803/166848804-937c262e-54d2-4f3c-9d28-fd85fa4b8489.png)
 
-
-![image](https://user-images.githubusercontent.com/102195803/166848481-51e99e6b-c512-423b-b1f4-b4a382bcb5e7.png)
-
-
 ![image](https://user-images.githubusercontent.com/102195803/166848417-317de42d-ad86-4222-bcb0-fae62c3ce500.png), 
 
 ![image](https://user-images.githubusercontent.com/102195803/166849042-d0669afe-01bf-4550-ac4d-477cf666bb89.png)
