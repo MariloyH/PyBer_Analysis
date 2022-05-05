@@ -31,7 +31,8 @@ Finally, we plot the results to observe how fares changed over time depending on
 **Resulting Data Frame**
 <img width="279" alt="Final DataFrame" src="https://user-images.githubusercontent.com/102195803/166987893-1da23ff9-97ee-4eca-938a-967be9ab3b10.png">
 
-**Fares vs Time City Types Plot**
+**Plotting results**
+
 ![image](https://user-images.githubusercontent.com/102195803/167016456-3372fcdc-3389-4b79-93d4-c4299ab9ab0b.png)
 
 ## Describe the differences in ride-sharing data among the different city types.
