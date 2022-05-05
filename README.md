@@ -14,9 +14,12 @@ From the data of  the citi_data.csv & the ride_data.csv we created a new Data Fr
 In order to get the necessary data, we perform several operations in the previous data frame to get the total fares per city type.   to perform the analysis. Later, we transform the final Data Frame and resample the data form January to May, 2019.
 ![image](https://user-images.githubusercontent.com/102195803/166849666-4ce12e10-23be-4134-827d-d04c73a321c6.png)
 Finally, we plot the results to observe how fares have changed over time depending on city type.
+PyBer_fare_summary.png
 
+## Describe the differences in ride-sharing data among the different city types.
+We can observe that the Urban rides were more profitable along the first 4 months if the year, in comparison with tne Rural rides. 
+At first sight we can think that rural rides are not so good because they are nor profitables, if we saw the statisticis we can observe that rural rides are not so frequent as the Urban. 
 
-describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (6 points)
